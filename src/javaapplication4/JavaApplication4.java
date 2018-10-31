@@ -15,6 +15,9 @@ public class JavaApplication4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // add some comments in revision 2
+        // add some messages
+        System.out.println("Revision 2");
         System.out.println("Hello world");
     }
     
